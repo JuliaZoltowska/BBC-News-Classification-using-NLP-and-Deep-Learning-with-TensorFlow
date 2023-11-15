@@ -16,5 +16,4 @@ In this project, I leveraged Natural Language Processing (NLP) and machine learn
 - Neural network models for classification
 - Dropout for regularization
 - Logistic Regression as a baseline model
-
   
